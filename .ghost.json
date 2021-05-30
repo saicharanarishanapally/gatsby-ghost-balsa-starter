@@ -1,0 +1,11 @@
+
+    {
+        "development": {
+            "apiUrl": "https://learnlytics.herokuapp.com",
+            "contentApiKey": "49e940e7cde68164f4ee6d6094"
+        },
+        "production": {
+            "apiUrl": "https://learnlytics.herokuapp.com",
+            "contentApiKey": "49e940e7cde68164f4ee6d6094"
+        }
+    }
